@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>The Path to Success: Achieving Your Career Dreams</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1><span class="highlight">The Path to Success: Achieving Your Career Dreams</span></h1>
+  <h2>My Dream: Becoming a Digital Influencer</h2>
+  <p>I want to become a digital influencer who creates impactful and positive content. I believe in using my voice to inspire, uplift, and entertain others—especially the youth of Malaysia.</p>
+  <h2>My Influencer Moments 💫</h2>
+<div class="image-gallery">
+  <img src="C:\Users\User\OneDrive\Pictures\WhatsApp Image 2025-04-04 at 00.30.24.jpg" alt="Influencer photo 1">
+  <img src="C:\Users\User\OneDrive\Desktop\career website\images\thulasi.jpg" alt="Influencer photo 2">
+  <img src="C:\Users\User\OneDrive\Desktop\career website\images\thulasi 2.jpg" alt="Influencer photo 3">
+  <img src="C:\Users\User\OneDrive\Desktop\career website\images\thulasi 3.jpg" alt="Influencer photo 4">
+</div>
+  <nav>
+    <a href="step-by-step.html">Step by Step Guide</a> |
+    <a href="inspiration.html">Inspiration & Resources</a>
+  </nav>
+</body>
+</html>
